@@ -1,0 +1,18 @@
+
+{
+    "geode": "6.0.0",
+    "gd": {
+        "android": "2.2091",
+        "win": "2.2091",
+        "mac": "2.2091",
+        "ios": "2.2091"
+    },
+    "id": "tuffo.analyser",
+    "name": "Tuffo Analyser",
+    "version": "1.0.0",
+    "developer": "ChatGPT and MingauGD",
+    "description": "Frame Analyzer, Macro and AI Frame Calculator.",
+    "tags": [
+        "utility"
+    ]
+}
